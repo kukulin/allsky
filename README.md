@@ -3,6 +3,8 @@
 This is fork of Thomas Jacquin Allsky camera to keep changes done by me in scripts to improve quality of picture from my ASI120MC camera 
 
 1st change - added dark frame extraction for each picture taken before it is saved in current folder
+filename is dark.PNG and it is located in main app directory.
+
 
 
 

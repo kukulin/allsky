@@ -7,7 +7,8 @@ This is fork of Thomas Jacquin Allsky camera to keep changes done by me in scrip
 
 
 
-
+Here original Readme from Thomas:
+------------------------------------------------------------------------------------------------------------------------
 
 This is the source code for the Wireless Allsky Camera project described [on Instructables](http://www.instructables.com/id/Wireless-All-Sky-Camera/).
 
